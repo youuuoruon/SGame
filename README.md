@@ -1,5 +1,5 @@
 # SGame
-<img src="https://user-images.githubusercontent.com/17819249/131244525-0cba9043-f16f-42da-b552-c3e6d4d828d0.png" alt="logo" width="500"/>
+<img src="" alt="logo" width="500"/>
 
 # 🎈 프로젝트 이름 : SGame
 
