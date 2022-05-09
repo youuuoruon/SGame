@@ -1,278 +1,193 @@
 # SGame
-<img src="" alt="logo" width="500"/>
+
+<img src="https://user-images.githubusercontent.com/43199383/167425159-579728d8-0797-481e-8092-150cf0ad9c5a.png" alt="logo" width="100"/>
+
+<br>
 
 # 🎈 프로젝트 이름 : SGame
 
 ## 🖌 프로젝트 개요
 
+#### 스팀 게임 추천 & 스피디한 게임 추천
+
 #### 빅데이터를 기반으로 추천 알고리즘 사용하여 스팀게임을 추천하는 애플리케이션입니다!
+
 #### 설문조사를 하여 성향에 맞는 게임을 추천받아보세요!
 
 <br>
 
 ## 🎯 핵심 기능
 
-### 인기 게임 추천
+### 인기 게임 & 카데고리 별 게임 추천
 
-<img src="https://user-images.githubusercontent.com/17819249/131249396-33a158ba-37aa-4dd4-a389-05dc63224698.gif" alt="timer" width="700"/>
+<img src="https://user-images.githubusercontent.com/43199383/167425218-5205ff96-69eb-41a7-858b-ef39f3ba3b4f.gif" width="200"/>
 
+<br>
 
 ### 설문조사를 통한 성향에 맞는 게임 추천
 
-<img src="https://user-images.githubusercontent.com/17819249/131249389-aa447832-1ad2-4c02-bc95-b775799130f2.gif" alt="statistics" width="700"/>
+<img src="https://user-images.githubusercontent.com/43199383/167425267-230d5c6f-9664-4625-befd-e43185959d1b.gif" width="200"/>
+<img src="https://user-images.githubusercontent.com/43199383/167425289-43140534-fdad-4a4f-b6dd-85ad35aa3cb3.gif" width="200"/>
+
+<br>
+
+### 즐겨찾기 & 추천 받은 게임 목록 확인
+
+<img src="https://user-images.githubusercontent.com/43199383/167425203-83051f48-1dcf-4c33-b98c-22f11f693ed1.gif" width="200"/>
 
 <br>
 <br>
 
 ## 👨‍👩‍👦‍👦 팀원소개
 
-| Name | 김민관 | 박성호 | 이윤기 | 윤혜원 | 서형준 | 이호형 | 
-| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| Role | 👑 &nbsp; 팀장  | 📝 &nbsp; 문서 작성  | 📹 &nbsp; UCC 담당자  | 🎤 &nbsp; 발표자  | 📊 &nbsp; 발표자료 제작 | 📊 &nbsp; 발표자료 제작 | 
-| Position | `Backend` | `Backend` | `Frontend`  | `Frontend` | `Frontend` | `Frontend` |
-| Git |  [@Changhwan-Son](https://github.com/Changhwan-Son) | [@kimho1995](https://github.com/kimho1995) | [@nohyoonko](https://github.com/nohyoonko) | [@dnguszz](https://github.com/dnguszz) | [@dayeonyang0324](https://github.com/dayeonyang0324) | [@dayeonyang0324](https://github.com/dayeonyang0324) |
+|   Name   |                김민관                 |                  박성호                   |                  윤혜원                  |                       이윤기                       |                     이호형                     |                서형준                |
+| :------: | :-----------------------------------: | :---------------------------------------: | :--------------------------------------: | :------------------------------------------------: | :--------------------------------------------: | :----------------------------------: |
+|   Role   |   👑 &nbsp; 팀장, 안드로이드, CI/CD   |       📝 &nbsp; 안드로이드, 디자인        |       📹 &nbsp; 안드로이드, 디자인       | 🎤 &nbsp; 데이터셋 구축, 데이터베이스 구축, 백엔드 | 📊 &nbsp; 데이터셋 구축, 백엔드, 추천 알고리즘 |   📊 &nbsp; 추천 알고리즘, 백엔드    |
+| Position |              `Frontend`               |                `Frontend`                 |                `Frontend`                |                     `Backend`                      |                   `Backend`                    |              `Backend`               |
+|   Git    | [@Heu_Ang](https://github.com/zoog15) | [@sunghoPark](https://github.com/sungho8) | [@hyeppy](https://github.com/youuuoruon) |              [@](https://github.com/)              |    [@leeholeo](https://github.com/leeholeo)    | [@BBOBBl](https://github.com/BBOBBl) |
+
 <br>
 
 ## 📆 개발 기간
 
-#### 22.07.12 ~ 22.08.20 (6주)
+#### 22.02.21 ~ 22.04.08 (6주)
 
 <br>
 
 ## 🛠 기술 스택
 
-### Frontend : <img src="https://img.shields.io/badge/Vue.js-2.6.14-4FC08D?style=flat-square&logo=Vue.js&logoColor=black"/> <img src="https://img.shields.io/badge/Vuetify-2.4.0-4FC08D?style=flat-square&logo=Vuetify&logoColor=blue"/> <img src="https://img.shields.io/badge/Vuex-3.6.2-4FC08D?style=flat-square&logo=Vue.js&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-269539?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/SCSS-1572B6?style=flat-square&logo=SCSS&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Bootstrap-339AF0?style=flat-square&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/BootstrapVue-339AF0?style=flat-square"/>
+### Frontend : <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 
-### Backend : <img src="https://img.shields.io/badge/Java-8-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-2.5.3-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-10.3.31-4479A1?style=flat-square&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-5.0.7-764ABC?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-764ABC?style=flat-square&logoColor=white"/> 
+### Backend : <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 
-### Tool : <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=black"/> <img src="https://img.shields.io/badge/NGINX-269539?style=flat-square&logo=NGINX&logoColor=black"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/> 
+### 배포 : <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 
+### Tool : <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=black"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=black"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
+### 아키텍처
 
-### 아키텍처 
-<img src="https://user-images.githubusercontent.com/17819249/131244635-ef2ff591-d644-46b0-86c3-250766c1ce60.png" alt="architecture" width="800"/>
-
+<img src="https://user-images.githubusercontent.com/43199383/167281326-e94a3dfc-45f8-434b-91c6-2a295407d938.png" width="800"/>
 
 <br>
 
 ## 📜 기획
 
-### 와이어프레임 
-### [Ohnaco 와이어프레임](https://www.figma.com/file/Ybb6iYwJCP9iihZ2bNyI1R/OHNACO?node-id=0%3A1)
+### 전체적인 기획안
 
-### Swagger API 문서
-### [Ohnaco API](https://app.swaggerhub.com/apis/Changhwan-Son/OhnacoAPI/1.0.0#/) 
+### [기획](https://www.notion.so/a68a2939378a4bb697dbdb6867209dd8)
 
-### 기능명세서
-### [Ohnaco 기능명세서](https://docs.google.com/spreadsheets/d/1gn3qHPVeoRsfY3zmd7fn3OHfk1eC3mWzFUCCXG4bpmc/edit#gid=1249323812) 
+### 기획 디자인
 
+<img src="https://user-images.githubusercontent.com/43199383/167281513-3d9e9b86-1f20-4ff6-82c3-be93a820a377.png" width="700"/>
 
-### 기능 구조 
+### DB 설계
 
-<img src="https://user-images.githubusercontent.com/17819249/131244642-4435d763-9b23-42cf-81ee-8b08e750d308.png" alt="feature" width="700"/>
+### [DB 설계](https://www.notion.so/DB-b5df39f63c2648dd9c89ff128ed1918e)
 
-### ERD
+### 데이터 수집 전략과 방법
 
-<img src="img/erd.png" alt="ERD" width="700"/>
+### [SGame 데이터 수집](https://www.notion.so/38b632c393294b729b29e4d3d002b5cb)
+
+### 추천 알고리즘
+
+### [SGame 추천 알고리즘](https://www.notion.so/faea9769fba94cad964bb7b6ec1f47da)
 
 <br>
 
-## 💻 설정 및 실행 
+## 💻 실행 화면
 
-- 먼저 git repository를 clone해서 받아온다. 
-```
-git clone https://github.com/ohnaco/OHNACO.git
-```
+<br>
 
-### Database Setting
-```
-sudo apt update && sudo apt-get -y upgrade
-sudo apt-get install -y mariadb-server
-mysql -u root -p
-```
+### APK 파일을 받아 실행
 
-### Redis Setting 
-```
-docker run --name redis -p 6379:6379 -d redis redis-server \
---appendonly yes --requirepass "Redis 패스워드" 
-```
+  <img src="https://user-images.githubusercontent.com/43199383/167281851-6202bb91-1d3a-4db9-95af-c77baf03d144.jpg" width="80"/>
 
-### nginx Setting 
-1. nginx 설치 
-```
-# nginx 설치 
-sudo apt-get install nginx 
+<br>
 
-# 잘 설치되었나 확인 
-sudo service nginx status  
-```
-2. vi 에디터 실행
-```
-sudo vi /etc/nginx/sites-enabled/default
-```
-3. 에디터에서 아래 내용 그대로 작성
-```
-upstream backend {
-  server localhost:8197;
-  server localhost:8196;
-}
-server {
-    root /'프로젝트 디렉토리'/OHNACO/frontend/dist;
+### 로그인, 비회원 로그인 화면
 
-    index index.html;
+  <img src="https://user-images.githubusercontent.com/43199383/167428470-b8058d29-ee80-4d3a-ab29-f9fca171f466.png" width="200"/>
 
-    server_name 13.125.58.16;
+### 메인 화면 - 인기게임, 카데고리별 게임 추천
 
-    location / {
-            try_files $uri $uri/ /index.html;
-    }
+  <img src="https://user-images.githubusercontent.com/43199383/167428475-d2d26afc-a2a9-4069-838b-0008987992d0.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428487-579bd0cf-b6f8-47e7-a214-710317fadf12.png" width="200"/>
 
-    ### backend reverse proxy ###
-    location /api {
-            proxy_pass https://backend;
-            proxy_http_version 1.1;
-            proxy_set_header Connection "";
-            proxy_set_header Host $host;
-            proxy_set_header X-Real-IP $remote_addr;
-            proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-            proxy_set_header X-Forwarded-Proto $scheme;
-            proxy_set_header X-Forwarded-Host $host;
-            proxy_set_header X-forwarded-Port $server_port;
-    }
-    
-    ...
-}
-``````
+### 자세한 게임 설명
 
-3. 설정 변경 후 syntax 검사 
-```
-sudo nginx -t
-```
+  <img src="https://user-images.githubusercontent.com/43199383/167428492-432b2c1b-d35a-482c-8970-4153c03f07d5.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428499-782ea5e6-c68b-4921-bfe6-96de3840286e.png" width="200"/>
 
-4. 설정 변경 후 nginx 재시작 필수 
-```
-sudo service nginx restart
-```
+### 즐겨찾기 기능
 
-### SSL Setting 
-```
-# 저장소 추가
-sudo add-apt-repository ppa:certbot/certbot
+  <img src="https://user-images.githubusercontent.com/43199383/167428505-84ca833d-ba5a-49b0-8500-f7b73524e08d.png" width="200"/>
 
-# apt-get 업데이트
-sudo apt-get update 
+### 설문조사로 게임 추천 받기
 
-# certbot 설치
-sudo apt-get install python-certbot-nginx
+  <img src="https://user-images.githubusercontent.com/43199383/167428514-8583ef25-6269-49ef-a5d7-2e0665577178.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428525-8fb46580-5ae8-488c-af70-3074b16e8a8d.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428528-708b22e6-92a2-404a-a722-0ca361f6861a.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428533-ee68b3bf-ed3c-460e-9d4e-f7824dcac993.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428539-e354f60b-8baa-4e77-8bba-11a3f13cf67e.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428542-87edb3f0-fd1a-4c67-be12-5c67bd6d862e.png" width="200"/>
 
-# 인증서 설치 
-sudo certbot --nginx -d '지정할 도메인'
+### 마이페이지 - 즐겨찾기한 게임, 추천 받은 게임 목록
 
-# 이메일 등록 / 약관 동의 / http redirect 설정 (2번 선택)
-```
+  <img src="https://user-images.githubusercontent.com/43199383/167428552-d1a12b96-ccf0-4c26-a70d-42f102fab348.png" width="200"/>
 
-### frontend 
-
-- frontend 폴더로 이동하여 아래의 명령어로 node package를 설치한다. 
-```
-npm install 
-```
-
-- 아래의 명령어로 빌드한다. 
-```
-npm run build
-```
-
-
-### backend 
-
-- 아래의 명령어로 빌드하여 jar파일을 생성한다. 
-```
-mvn package
-```
-
-- 아래의 명령어를 통해 2개의 포트로 서버를 실행시킨다. 
-```
-nohup java -jar target/*.jar —server.port=8197 &
-nohup java -jar target/*.jar —server.port=8196 &
-```
-
-- 최신 버전 반영 시
-```
-# 실행중인 서버 끄기 
-sudo kill -9 `pgrep java`
-
-# git pull 하고 
-
-mvn package
-nohup java -jar target/*.jar —server.port=8197 &
-nohup java -jar target/*.jar —server.port=8196 &
-```
+<br>
 
 ## ⚙ 개발 규칙
 
-### Git Commit Message 규약
+### 코드를 알아보기 쉽게 작성
 
-- Git Commit Message Template
+- 주석을 최대한 세세히 ‘위에’ 적기
 
-```bash
-S05P12A10100 - [feat] : /FE
-# 이슈 번호 - [속성] : 내용 /FE 또는 /BE
-##### 제목은 최대 50 글자까지만 입력
-##### -> S05P12A10190 - [feat] : 이메일 중복검사/ FE|
+```cpp
+if (b) {
+	// 로그인 성공시
 
+} else{
+	//로그인 실패시
 
-######## 본문은 한 줄에 최대 72 글자까지만 입력
-############################
+}
 
+// 전체 유저수만큼 반복
+for (int i = 0; i < user.size() ; i++) {
 
-######## 꼬리말은 Optional
+}
 
-#   속성 분류
-#   feat       : 새로운 기능 추가
-#   fix        : 버그 수정
-#   refactor   : 코드 리팩토링
-#   design     : CSS 등 사용자 UI 디자인 변경
-#   ci         : CI 관련 설정 수정에 대한 커밋
-#   style      : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우
-#   docs       : 문서 수정
-#   test       : 테스트 코드, 리팩토링 테스트 코드 추가
-#   build      : 빌드 관련, 패키지 매니저 수정(npm, yarn)
-#   chore      : 그 외 자잘한 수정사항
-#   rename     : 파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우
-#   remove     : 파일을 삭제하는 작업만 수행한 경우
-#   hotfix     : 급하게 치명적인 버그 수정
-
-# ------------------
-#     제목 첫 글자를 대문자로 시작
-#     제목은 명령문으로 작성
-#     제목 끝에 마침표(.) 금지
-#     제목과 본문을 한 줄 띄워 분리하기
-#     본문은 한 줄당 72자 내로 작성.
-#     본문 내용은 양에 구애받지 말고 최대한 상세히 작성
-#     본문은 "어떻게" 보다 "무엇을", "왜"를 설명
-#     본문에 여러줄의 메시지를 작성할 땐 "-"로 구분
-# ------------------
-
-#     꼬리말은 optional이고 이슈 트래커 ID를 작성합니다.
-#     꼬리말은 "[유형] [이슈 번호]" 형식으로 사용합니다.
-#     여러 개의 이슈 번호를 적을 때는 쉼표로 구분합니다.
-#     이슈 트래커 유형은 다음 중 하나를 사용합니다.
-#        - Resolves : 이슈를 해결했을 때 사용
-#       ex) Resolves S05P12A10190
-#        - [이슈 번호] #comment [댓글 내용]
-#        : 댓글 남기기
-
+// 로그인하는 함수 (args : 아이디)
+void func(int args){
+}
 ```
 
-```
-git config --global commit.template <.gitmessage.txt 경로>
-```
+- 변수명, 함수명 : steamApi
+- 변수이름 예쁘게 작명하기
+- 클래스명은 대문자로 시작하기
+- 노션에 파일별로 설명 및 정리
+
 <br>
 
-### Git Flow 규약
+### Commit Convention
 
-Ref : https://techblog.woowahan.com/2553/
+- Feat : 새로운 기능추가
+
+- Merge : 머지
+
+- Fix : 버그수정
+
+- Ui : 디자인 변경
+
+- Comment : 간결하게 한두문장으로
+
+- Doc: 문서 추가/변경/삭제
+
+**예시**
+
+```bash
+commit -m "Feat : 로그인 기능 추가 - 박성호"
+```
 
 #### Branch
 
