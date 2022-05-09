@@ -1,6 +1,6 @@
 # SGame
 
-<img src="https://user-images.githubusercontent.com/43199383/167425159-579728d8-0797-481e-8092-150cf0ad9c5a.png" alt="logo" width="100"/>
+<img src="https://user-images.githubusercontent.com/43199383/167425159-579728d8-0797-481e-8092-150cf0ad9c5a.png" alt="logo" width="200"/>
 
 <br>
 
@@ -20,20 +20,20 @@
 
 ### 인기 게임 & 카데고리 별 게임 추천
 
-<img src="https://user-images.githubusercontent.com/43199383/167425218-5205ff96-69eb-41a7-858b-ef39f3ba3b4f.gif" width="200"/>
+<img src="https://user-images.githubusercontent.com/43199383/167425218-5205ff96-69eb-41a7-858b-ef39f3ba3b4f.gif" width="300"/>
 
 <br>
 
 ### 설문조사를 통한 성향에 맞는 게임 추천
 
-<img src="https://user-images.githubusercontent.com/43199383/167425267-230d5c6f-9664-4625-befd-e43185959d1b.gif" width="200"/>
-<img src="https://user-images.githubusercontent.com/43199383/167425289-43140534-fdad-4a4f-b6dd-85ad35aa3cb3.gif" width="200"/>
+<img src="https://user-images.githubusercontent.com/43199383/167425267-230d5c6f-9664-4625-befd-e43185959d1b.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/43199383/167425289-43140534-fdad-4a4f-b6dd-85ad35aa3cb3.gif" width="300"/>
 
 <br>
 
 ### 즐겨찾기 & 추천 받은 게임 목록 확인
 
-<img src="https://user-images.githubusercontent.com/43199383/167425203-83051f48-1dcf-4c33-b98c-22f11f693ed1.gif" width="200"/>
+<img src="https://user-images.githubusercontent.com/43199383/167425203-83051f48-1dcf-4c33-b98c-22f11f693ed1.gif" width="300"/>
 
 <br>
 <br>
@@ -100,40 +100,40 @@
 
 ### APK 파일을 받아 실행
 
-  <img src="https://user-images.githubusercontent.com/43199383/167281851-6202bb91-1d3a-4db9-95af-c77baf03d144.jpg" width="80"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167281851-6202bb91-1d3a-4db9-95af-c77baf03d144.jpg" width="180"/>
 
 <br>
 
 ### 로그인, 비회원 로그인 화면
 
-  <img src="https://user-images.githubusercontent.com/43199383/167428470-b8058d29-ee80-4d3a-ab29-f9fca171f466.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428470-b8058d29-ee80-4d3a-ab29-f9fca171f466.png" width="300"/>
 
 ### 메인 화면 - 인기게임, 카데고리별 게임 추천
 
-  <img src="https://user-images.githubusercontent.com/43199383/167428475-d2d26afc-a2a9-4069-838b-0008987992d0.png" width="200"/>
-  <img src="https://user-images.githubusercontent.com/43199383/167428487-579bd0cf-b6f8-47e7-a214-710317fadf12.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428475-d2d26afc-a2a9-4069-838b-0008987992d0.png" width="250"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428487-579bd0cf-b6f8-47e7-a214-710317fadf12.png" width="250" align='center'/>
 
 ### 자세한 게임 설명
 
-  <img src="https://user-images.githubusercontent.com/43199383/167428492-432b2c1b-d35a-482c-8970-4153c03f07d5.png" width="200"/>
-  <img src="https://user-images.githubusercontent.com/43199383/167428499-782ea5e6-c68b-4921-bfe6-96de3840286e.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428492-432b2c1b-d35a-482c-8970-4153c03f07d5.png" width="300"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428499-782ea5e6-c68b-4921-bfe6-96de3840286e.png" width="300"/>
 
 ### 즐겨찾기 기능
 
-  <img src="https://user-images.githubusercontent.com/43199383/167428505-84ca833d-ba5a-49b0-8500-f7b73524e08d.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428505-84ca833d-ba5a-49b0-8500-f7b73524e08d.png" width="300"/>
 
 ### 설문조사로 게임 추천 받기
 
-  <img src="https://user-images.githubusercontent.com/43199383/167428514-8583ef25-6269-49ef-a5d7-2e0665577178.png" width="200"/>
-  <img src="https://user-images.githubusercontent.com/43199383/167428525-8fb46580-5ae8-488c-af70-3074b16e8a8d.png" width="200"/>
-  <img src="https://user-images.githubusercontent.com/43199383/167428528-708b22e6-92a2-404a-a722-0ca361f6861a.png" width="200"/>
-  <img src="https://user-images.githubusercontent.com/43199383/167428533-ee68b3bf-ed3c-460e-9d4e-f7824dcac993.png" width="200"/>
-  <img src="https://user-images.githubusercontent.com/43199383/167428539-e354f60b-8baa-4e77-8bba-11a3f13cf67e.png" width="200"/>
-  <img src="https://user-images.githubusercontent.com/43199383/167428542-87edb3f0-fd1a-4c67-be12-5c67bd6d862e.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428514-8583ef25-6269-49ef-a5d7-2e0665577178.png" width="300"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428525-8fb46580-5ae8-488c-af70-3074b16e8a8d.png" width="300"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428528-708b22e6-92a2-404a-a722-0ca361f6861a.png" width="300"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428533-ee68b3bf-ed3c-460e-9d4e-f7824dcac993.png" width="300"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428539-e354f60b-8baa-4e77-8bba-11a3f13cf67e.png" width="300"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428542-87edb3f0-fd1a-4c67-be12-5c67bd6d862e.png" width="300"/>
 
 ### 마이페이지 - 즐겨찾기한 게임, 추천 받은 게임 목록
 
-  <img src="https://user-images.githubusercontent.com/43199383/167428552-d1a12b96-ccf0-4c26-a70d-42f102fab348.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428552-d1a12b96-ccf0-4c26-a70d-42f102fab348.png" width="300"/>
 
 <br>
 
