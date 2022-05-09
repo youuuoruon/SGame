@@ -110,8 +110,8 @@
 
 ### 메인 화면 - 인기게임, 카데고리별 게임 추천
 
-  <img src="https://user-images.githubusercontent.com/43199383/167428475-d2d26afc-a2a9-4069-838b-0008987992d0.png" width="250"/>
-  <img src="https://user-images.githubusercontent.com/43199383/167428487-579bd0cf-b6f8-47e7-a214-710317fadf12.png" width="250" align='center'/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428475-d2d26afc-a2a9-4069-838b-0008987992d0.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/43199383/167428487-579bd0cf-b6f8-47e7-a214-710317fadf12.png" width="200"/>
 
 ### 자세한 게임 설명
 
