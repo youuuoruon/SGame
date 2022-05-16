@@ -206,7 +206,7 @@ feature/fe(be)/기능명
 
 ```
 //develop 브랜치에서 생성
-$ git checkout -b feature/fe(be)/login develop
+$ git checkout -b feature/fe(be)/login develop 
 ```
 
 #### Merge 규칙
